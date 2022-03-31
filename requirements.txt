@@ -15,8 +15,6 @@ ipython==5.5.0
 ipython-genutils==0.2.0
 Jinja2==2.10
 keyring==10.6.0
-keyrings.alt==3.0
-kiwisolver==1.1.0
 MarkupSafe==1.0
 matplotlib==2.2.4
 numpy==1.16.5
